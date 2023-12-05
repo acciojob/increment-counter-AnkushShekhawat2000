@@ -8,7 +8,7 @@
     // Function to handle button click
     function handleIncrement() {
       // Display the current counter value in an alert
-      alert("Un-incremented value: " + counterValue);
+      alert(counterValue);
       
       // Increment the counter value
       counterValue++;
