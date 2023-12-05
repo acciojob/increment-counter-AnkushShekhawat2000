@@ -16,3 +16,5 @@
       // Update the counter element text
       counterElement.textContent = counterValue;
     }
+
+incrementBtn.addEventListener("click", handleIncrement);
